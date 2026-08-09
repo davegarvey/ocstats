@@ -1,0 +1,1 @@
+;0x0000014d;((self.$R=self.$R||{})["server-fn:9"]=[],($R=>$R[0]={mine:!0,useBalance:!1,region:$R[1]=["us","eu","sg","cn"],rollingUsage:$R[2]={status:"ok",resetInSec:13106,usagePercent:2},weeklyUsage:$R[3]={status:"ok",resetInSec:44104,usagePercent:53},monthlyUsage:$R[4]={status:"ok",resetInSec:1673860,usagePercent:35}})($R["server-fn:9"]))
